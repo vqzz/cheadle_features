@@ -1,5 +1,5 @@
-<img src="https://fyle.uk/fiAb3" alt="monofile: 'File sharing over Discord', topped with the monofile logo. Blue gradient with an image of monofile 1.4.0-dev on the side.">
-<p align="center"><a href="https://fyle.uk">Flagship instance</a> &mdash; <a href="https://cheadleware.net/api">API</a></p>
+<img src="https://imgur.com/a/jgRT0eA" alt="cheadleware: 'List of cheadleware features">
+<p align="center"><a href="https://cheadleware.net">Website</a> &mdash; <a href="https://cheadleware.net/api">API</a></p>
 
 <br>
 
