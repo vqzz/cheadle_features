@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/jgRT0eA" alt="cheadleware: 'List of cheadleware features">
+![Alt Text](https://imgur.com/a/jgRT0eA)
 <p align="center"><a href="https://cheadleware.net">Website</a> &mdash; <a href="https://cheadleware.net/api">API</a></p>
 
 <br>
