@@ -142,7 +142,6 @@ All ESP flags have can be on the Top, Right, Left or Bottom
     - Charge key
     - Discharge key
 ## Themes
-- Make your own Theme
 - Save, Load and Reset
 - Official Themes
     - Meth Theme
