@@ -156,3 +156,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Disable Notifications
 - Disabled Notifications sounds
 - Disable Screengrab Notifications
+
+## Shoutbox
+- Disable for now/Forever
+- Would be able to talk to or cheadleware users
