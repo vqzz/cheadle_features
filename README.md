@@ -7,6 +7,7 @@
 # Features
 - Every Feature is Screengrab proof
 - All Ignore buttons are the same except Net
+- All visual features have a color picker
 ## ESP Tab
 ### Player ESP
 All ESP flags have can be on the Top, Right, Left or Bottom
