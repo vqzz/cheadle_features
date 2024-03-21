@@ -1,6 +1,9 @@
 # Features
+- Every Feature is Screengrab proof
+- All Ignore buttons are the same except Net
 ## ESP Tab
 ### Player ESP
+All ESP flags have can be on the Top, Right, Left or Bottom
 - Bounding Box
     - Full
     - Cornered
@@ -23,6 +26,7 @@
 - Dormant
     - Opacity
     - Use Dormant Color
+- Font
 ### Entity ESP
 - Bounding Box
 - Class
@@ -65,3 +69,62 @@
 - NoRecoil
 - NoPunch
 - pSilent Nospread
+    - Only Correct Spread while pSilent
+## Entities Tab
+- Entities list for Entity esp
+- Friends list For Aimbot, Api, and Esp
+## Misc Tab
+- Bunny Hop
+    - BunnyHop Key
+    - AutoStrafe
+- FreeCam
+    - Hud
+- Cheadle Graph ("Watermark")
+- Click to toggle
+    - WIP
+    - KeyBind
+- Flash Spam
+- Use Spam
+- Attack Spam
+- OBS Bypass
+    - WIP
+- HTTP Logger
+- SQL Logger
+- File Logger
+- Net in Logger
+- Net out Logger
+- Crosshair
+    - Length
+- Spectator List
+- Custom Disconnet
+    - Reason
+## Lua Loader
+- Run any GLua File
+- Open File from C:\Cheadleware\Saved_lua
+- Save File/Code to C:\Cheadleware\Saved_lua
+- Advanced Lua Stealer
+- Menu State Execution
+- Advanced API with multiple useful features
+## Configs
+- Load
+- Save
+- New
+- Delete
+## Console
+- Net tab to ignore Nets
+    - Useful to ignore nets spamming
+- Right Click Popup
+    - File, SQL, HTTP, Net In, Net Out, Concommands Logs
+    - Other
+## Rage
+- Cheadle Freeze
+    - Freezes you in the air (airstuck)
+- FakeDuck
+- Legit AA
+    - Legit AA Key
+    - Vibration Amount
+- Backtrack
+    - Target on Aimbot
+    - HitBox
+    - Indicates 
+    -
