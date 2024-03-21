@@ -112,7 +112,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
      - C:\Cheadleware\Saved_lua
 - Advanced Lua Stealer
 - Menu State Execution
-- Advanced API with multiple useful features
+- **Most Advanced API** with multiple useful features
 ## Configs
 - Load
 - Save
