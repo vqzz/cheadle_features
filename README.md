@@ -9,6 +9,7 @@
 - All Ignore buttons are the same except Net
 - All visual features have a color picker
 ## ESP Tab
+![Image of Cheadleware's ESP Tab](images/ESP.png)
 ### Player ESP
 All ESP flags have can be on the Top, Right, Left or Bottom
 - Bounding Box
@@ -54,6 +55,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
     - Same Team
     - Invisible
 ### Aimbot
+![Image of Cheadleware's Aimbot Tab](images/Aimbot.png)
 - Aimbot Key
 - FOV Circle
 - FOV Slider
@@ -81,6 +83,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Entities list for Entity esp
 - Friends list For Aimbot, Api, and Esp
 ## Misc Tab
+![Image of Cheadleware's Misc Tab](images/Misc.png)
 - Bunny Hop
     - BunnyHop Key
     - AutoStrafe
@@ -88,13 +91,13 @@ All ESP flags have can be on the Top, Right, Left or Bottom
     - Hud
 - Cheadle Graph ("Watermark")
 - Click to toggle
-    - WIP
+    - Toggles Friend/Whitelist status of the Player/Entity you're looking at.
     - KeyBind
 - Flash Spam
 - Use Spam
 - Attack Spam
 - OBS Bypass
-    - WIP
+    - Hides \*ENGINE\* drawing from OBS. EVERYTHING is screengrab-proof regardless of this setting. May get checked for in advanced anticheats.
 - HTTP Logger
 - SQL Logger
 - File Logger
@@ -106,6 +109,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Custom Disconnet
     - Reason
 ## Lua Loader
+![Image of Cheadleware's Lua Loader Tab](images/Lua_Loader.png)
 - Run any GLua Code
 - Open File
      - C:\Cheadleware\Saved_lua
@@ -115,17 +119,20 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Menu State Execution
 - **Most Advanced API** with multiple useful features
 ## Configs
+![Image of Cheadleware's Configs Tab](images/Configs.png)
 - Load
 - Save
 - New
 - Delete
 ## Console
+![Image of Cheadleware's ESP Tab](images/Console.png)
 - Net tab to ignore Nets
     - Useful to ignore nets spamming
 - Right Click Popup
     - File, SQL, HTTP, Net In, Net Out, Concommands Logs
     - Other
 ## Rage
+![Image of Cheadleware's Rage Tab](images/Rage.png)
 - Cheadle Freeze
     - Freezes you in the air (airstuck)
 - FakeDuck
@@ -136,7 +143,8 @@ All ESP flags have can be on the Top, Right, Left or Bottom
     - Target on Aimbot
     - HitBox
          - Head
-         - WIP
+         - Chest
+         - Body
     - Indicators 
          - Skeleton
          - Dots
@@ -149,6 +157,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
     - Charge key
     - Discharge key
 ## Themes
+![Image of Cheadleware's Themes Tab](images/Themes.gif)
 - Save, Load and Reset
 - Official Themes
     - Meth Theme
@@ -158,5 +167,6 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Disable Screengrab Notifications
 
 ## Shoutbox
+![Image of Cheadleware's Themes Tab](images/Shoutbox.png)
 - Disable for now/Forever
 - Would be able to talk to or cheadleware users
