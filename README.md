@@ -103,7 +103,9 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - SQL Logger
 - File Logger
 - Net in Logger
+   - Hidden Accessable via API
 - Net out Logger
+   - Hidden Accessable via API
 - Crosshair
     - Length
 - Spectator List
