@@ -43,6 +43,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Ignore
 - Dormant
 ## Aimbot Tab
+![Image of Cheadleware's Aimbot Tab](images/Aimbot.png)
 ### TriggerBot
 - TriggerBot Type
     - Hold
@@ -55,7 +56,6 @@ All ESP flags have can be on the Top, Right, Left or Bottom
     - Same Team
     - Invisible
 ### Aimbot
-![Image of Cheadleware's Aimbot Tab](images/Aimbot.png)
 - Aimbot Key
 - FOV Circle
 - FOV Slider
@@ -80,6 +80,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - pSilent Nospread
     - Only Correct Spread while pSilent
 ## Entities Tab
+![Image of Cheadleware's Entities Tab](images/Entities.png)
 - Entities list for Entity esp
 - Friends list For Aimbot, Api, and Esp
 ## Misc Tab
