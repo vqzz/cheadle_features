@@ -126,5 +126,25 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Backtrack
     - Target on Aimbot
     - HitBox
-    - Indicates 
-    -
+         - Head
+         - WIP
+    - Indicators 
+         - Skeleton
+         - Dots
+    - Show indicators
+    - Only last indicator
+    - Last Indicator Alpha
+    - Mid Indicator Alpha
+    - Ignore Friends
+- Rapid fire 
+    - Charge key
+    - Discharge key
+## Themes
+- Make your own Theme
+- Save, Load and Reset
+- Official Themes
+    - Meth Theme
+    - Odium Theme
+- Disable Notifications
+- Disabled Notifications sounds
+- Disable Screengrab Notifications
