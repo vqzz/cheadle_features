@@ -101,9 +101,9 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 ## Lua Loader
 - Run any GLua Code
 - Open File
-    - C:\Cheadleware\Saved_lua
+     - C:\Cheadleware\Saved_lua
 - Save File
-    - C:\Cheadleware\Saved_lua
+     - C:\Cheadleware\Saved_lua
 - Advanced Lua Stealer
 - Menu State Execution
 - Advanced API with multiple useful features
