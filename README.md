@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/a/jgRT0eA.gif" alt="cheadleware: 'List of cheadleware features">
+<img src="https://i.imgur.com/a/jgRT0eA" alt="cheadleware: 'List of cheadleware features">
 <p align="center"><a href="https://cheadleware.net">Website</a> &mdash; <a href="https://cheadleware.net/api">API</a></p>
 p>
 
