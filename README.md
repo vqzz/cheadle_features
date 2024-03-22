@@ -151,7 +151,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
     - Indicators 
          - Skeleton
          - Dots
-    - Show indicators
+    - Show indciators
     - Only last indicator
     - Last Indicator Alpha
     - Mid Indicator Alpha
