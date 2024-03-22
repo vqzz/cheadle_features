@@ -174,3 +174,9 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 ![Image of Cheadleware's Themes Tab](images/Shoutbox.png)
 - Disable for now/Forever
 - Would be able to talk to or cheadleware users
+
+## Main Menu
+<img src="images/MainMenu.gif" alt="Image of Cheadleware's Main Menu" width="600"/>
+
+## Loader
+![Image of Cheadleware's Loader](images/Loader.png)
