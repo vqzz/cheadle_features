@@ -109,6 +109,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Crosshair
     - Length
 - Spectator List
+    - Supports **ALL** methods a admin could spectate you
 - Custom Disconnet
     - Reason
 ## Lua Loader
