@@ -109,7 +109,7 @@ All ESP flags have can be on the Top, Right, Left or Bottom
 - Crosshair
     - Length
 - Spectator List
-    - Supports **ALL** (expect fadmin its impossible) methods a admin could spectate you
+    - Supports **ALL** (except fadmin its impossible) methods a admin could spectate you
 - Custom Disconnet
     - Reason
 ## Lua Loader
